@@ -4,3 +4,6 @@
 [submodule "lib/Servo"]
 	path = lib/Servo
 	url = https://github.com/arduino-libraries/Servo
+[submodule "lib/LiquidCrystal"]
+	path = lib/LiquidCrystal
+	url = https://github.com/arduino-libraries/LiquidCrystal
