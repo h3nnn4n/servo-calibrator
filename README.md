@@ -1,13 +1,12 @@
-# Cubotron IRL
+# Servo Calibrator
 
-The next step of [Cubotron](https://github.com/h3nnn4n/cubotron). The first
-part of the project took care of finding a solution for a scrambled cube
-relativelly fast. This repo contains the "IRL" part of it, which will
-manipulate the cube in order to solve it.
+A simple servo calibrator with an LCD and a Potenciomenter.
 
 # Credits
 
 - [Bare Arduino Project](https://github.com/ladislas/Bare-Arduino-Project)
+- [Arduino Servo lib](https://github.com/arduino-libraries/Servo)
+- [Arduino LiquidCrystal lib](https://github.com/arduino-libraries/LiquidCrystal)
 
 # Copyright and License
 
